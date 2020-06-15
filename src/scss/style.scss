@@ -1,0 +1,7 @@
+@import "variables.scss";
+@import "./bootstrap/overrides.scss";
+@import "~bootstrap/scss/bootstrap";
+
+body {
+  background: $bg-color;
+}
